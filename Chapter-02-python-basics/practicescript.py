@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 # ---------------------------------------------
 # Chapter 2 Practice Script
 # Topics: Literals, Constants, Keywords, Identifiers, Variables, Comments
@@ -63,8 +62,4 @@ b = 200
 sum_ab = a + b
 print("Sum of Variables:", sum_ab)
 
-# ----------------------
-# End of Script
-# ----------------------
-print("✅ Chapter 2 Practice Script Completed!")
 

@@ -10,7 +10,7 @@
    - Using Python Command-Line Window  
    - Using Python IDE (Graphical Window)  
 5. Bytecode & Python Virtual Machine (PVM)  
-6. Shebang (`#!`) in Python Scripts  
+
 
 ---
 
@@ -81,18 +81,4 @@ Machine Code (CPU Executes)
 - Bytecode: Intermediate code Python creates before execution.
 - PVM: Executes the bytecode line-by-line.
 
-## 6. Shebang in Python Scripts
-### What is Shebang?
 
-A special line at the start of a script that tells the system which interpreter to use.
-
-Example:
-```bash
-#!/usr/bin/env python3
-print("Hello World")
-```
-**Why use `#!/usr/bin/env python3`?**
-
-- Ensures the script uses the Python version in your environment.
-
-- Works across different systems without hardcoding /usr/bin/python3.

@@ -1,7 +1,4 @@
-#!/usr/bin/env python3
-
-# Demo script for Chapter 1 - Introduction to Python
-# This script prints a greeting message
+# Chapter 1 - Introduction to Python
 
 print("Hello, Cloud Engineer!")
 
